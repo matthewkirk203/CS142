@@ -1,0 +1,7 @@
+Tucanos 10
+TacoBell 5
+Tucanso 5
+PizzaHut 15
+Tucanos 5
+PizzaHut 2
+Tucanos 5
